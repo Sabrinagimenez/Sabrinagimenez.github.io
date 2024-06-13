@@ -884,10 +884,10 @@ About Style
   z-index: -1;
   width: 95%;
   height: 100%;
-  background-color: #1f2120;
+  background-color: #1f2121;
   content: '';
-  border-top-left-radius: 500px;
-  border-bottom-left-radius: 500px;
+  border-top-left-radius: 70px;
+  border-bottom-left-radius: 70px;
   
 }
 
@@ -1122,8 +1122,8 @@ Facts Style
   height: 100%;
   background-color: #1f2120 ;
   content: '';
-  border-top-right-radius: 500px;
-  border-bottom-right-radius: 500px;
+  border-top-right-radius: 70px;
+  border-bottom-right-radius: 70px;
 }
 
 .fun-facts:after {
@@ -1256,8 +1256,8 @@ Testimonials Style
   height: 100%;
   background-color: #1f2120;
   content: '';
-  border-top-left-radius: 500px;
-  border-bottom-left-radius: 500px;
+  border-top-left-radius:70px;
+  border-bottom-left-radius: 70px;
 }
 
 .testimonials .section-heading {
@@ -1454,8 +1454,8 @@ Contact Style
   height: 100%;
   background-color: #1f2120;
   content: '';
-  border-top-right-radius: 500px;
-  border-bottom-right-radius: 500px;
+  border-top-right-radius: 70px;
+  border-bottom-right-radius: 70px;
 }
 
 
