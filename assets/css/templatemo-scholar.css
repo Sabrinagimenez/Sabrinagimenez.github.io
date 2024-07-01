@@ -152,7 +152,7 @@ body {
 }
 
 .section-heading h6 {
-  color: #f67bd3 ;
+  color: #000000 ;
   font-size: 20px;
   text-transform: uppercase;
   font-weight: 600;
@@ -160,8 +160,8 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #fff;
-  color: #f67bd3 ;
+  background-color: #ffffff;
+  color: #000000 ;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -172,7 +172,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #e4bbff ;
+  background-color: #dda7fa ;
   color: #fff;
 }
 
@@ -249,7 +249,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #f67bd3;
+  background: #dda7fa;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -272,7 +272,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #f67bd3;
+  background: #dda7fa;
   border-radius: 50%;
 }
 
@@ -285,7 +285,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #ffffff !important;
+  background-color: #dda7fa !important;
   border-radius: 0px 0px 25px 25px;
   height: 70px!important;
   position: fixed!important;
@@ -622,7 +622,7 @@ font-style: normal;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #f67bd3 !important;
+    color: #dda7fa !important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -683,7 +683,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/FONFPO-01.jpg);
+  background-image: url(../images/fondonuevo1_Mesa\ de\ trabajo\ 1.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -740,8 +740,8 @@ Banner Style
 
 .main-banner .item .buttons .main-button a {
   font-size: 14px;
-  color: #ffebeb;
-  background-color: #fb31dd;
+  color: #000000;
+  background-color: #ffffff;
   display: inline-block;
   height: 50px;
   line-height: 50px;
@@ -751,8 +751,8 @@ Banner Style
 }
 
 .main-banner .item .buttons .icon-button i {
-  color: #ffffff ;
-  background-color: #fb31dd;
+  color: #000000 ;
+  background-color: #ffffff;
   display: inline-block;
   height: 50px;
   width: 50px;
@@ -824,7 +824,7 @@ Services Style
   display: inline-block;
   text-align: center;
   line-height: 190px;
-  background-color: #f67bd3 ;
+  background-color: #dda7fa ;
   border-radius: 50%;
   position: absolute;
   right: 0;
@@ -843,7 +843,7 @@ Services Style
   margin-bottom: 30px;
   margin-right: 80px;
   transition: all .4s;
-  background-image: url(../images/SECCION1.jpg);
+  background-image: url(../images/SECCION5.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -873,7 +873,7 @@ About Style
   position: relative;
   padding: 0px;
   margin-top: 130px;
-  background-image: url(../images/SECCION2.jpg);
+  background-image: url(../images/seccionAcbD-02.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -899,7 +899,7 @@ About Style
 .accordion {
   margin-top: -40px;
   margin-bottom: -40px;
-  background-color: #61b5f5 ;
+  background-color: #fd7dc1 ;
   border-radius: 40px;
   padding: 80px 50px 50px 50px;
 }
@@ -941,7 +941,7 @@ h2.accordion-header button {
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #f67bd3 ;
+  background-color: #000000 ;
   color: #fff;
 }
 
@@ -955,7 +955,7 @@ h2.accordion-header button {
   padding: 0px 25px 30px 25px;
   font-size: 14px;
   line-height: 28px;
-  color: #4a4a4a;
+  color: #000000;
 }
 
 .about-us .section-heading {
@@ -987,7 +987,7 @@ Courses Style
 }
 
 .event_filter {
-  background-color: #f67bd3;
+  background-color: #000000;
   border-radius: 50px;
   padding: 15px 40px;
   list-style: none;
@@ -1003,7 +1003,7 @@ Courses Style
 .event_filter li a {
   font-size: 14px;
   font-weight: 500;
-  color: #ffffff;
+  color: #fff8f8;
   transition: all .3s;
 }
 
@@ -1011,7 +1011,7 @@ Courses Style
 
 .event_filter li a.is_active,
 .event_filter li a:hover {
-  color: #f67bd3 ;
+  color: #f9f8f8 ;
 }
 
 .events_item .thumb {
@@ -1030,7 +1030,7 @@ Courses Style
   top: 30px;
   font-size: 14px;
   text-transform: uppercase;
-  color: #f67bd3 ;
+  color: #000000 ;
   background-color: rgba(250, 250, 250, 0.95);
   padding: 8px 20px;
   border-radius: 25px;
@@ -1084,7 +1084,7 @@ Courses Style
 }
 
 .events_item .down-content span.author {
-  color: #ff00b7 ;
+  color: #dda7fa ;
   font-size: 15px;
   display: inline-block;
   margin-bottom: 6px;
@@ -1097,7 +1097,7 @@ Courses Style
 }
 
 .events_item:hover .down-content h4 {
-  color: #030203;
+  color: #dda7fa;
 }
 
 .events_item:hover .thumb span.price {
@@ -1122,7 +1122,7 @@ Facts Style
   position: relative;
   padding: 120px 0px 80px 0px;
   overflow: hidden;
-  background-image: url(../images/SECCION4.jpg);
+  background-image: url(../images/seccionAcb-02.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1219,7 +1219,7 @@ Team Style
 }
 
 .team-member .main-content span.category {
-  color: #ff00b7 ;
+  color: #dda7fa ;
   font-size: 15px;
 }
 
@@ -1249,7 +1249,7 @@ Team Style
 }
 
 .team-member .main-content ul li a:hover {
-  background-color: #f67bd3;
+  background-color: #dda7fa;
   color: #1f2120;
 }
 
@@ -1275,7 +1275,7 @@ Testimonials Style
   z-index: -1;
   width: 65%;
   height: 100%;
-  background-image: url(../images/SECCION6.jpg);
+  background-image: url(../images/SECCION7AS.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1296,7 +1296,7 @@ Testimonials Style
 }
 
 .testimonials .item {
-  background-color: #ff59d0 ;
+  background-color: #211e1e ;
   border-radius: 25px;
   padding: 80px;
 }
@@ -1346,7 +1346,7 @@ Testimonials Style
   line-height: 50px;
   font-size: 24px;
   display: inline-block;
-  color: #f67bd3 ;
+  color: #000000 ;
   background-color: #fff;
   border-radius: 50%;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.10);
@@ -1486,7 +1486,7 @@ Contact Style
   content: '';
   border-top-right-radius: 70px;
   border-bottom-right-radius: 70px;
-  background-image: url(../images/SECCION5.jpg);
+  background-image: url(../images/SECCIONAS8.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1504,7 +1504,7 @@ Contact Style
 
 .contact-us .special-offer {
   margin-top: 50px;
-  background-color: #dda7f4;
+  background-color: #dda7fa;
   border-radius: 25px;
   padding: 30px 120px;
   display: inline-block;
@@ -1576,7 +1576,7 @@ Contact Style
 .contact-us .contact-us-content {
   border-radius: 25px;
   padding: 80px;
-  background-color: #ff59d0 ;
+  background-color: #dda7fa ;
   position: relative;
   z-index: 1;
 }
@@ -1609,40 +1609,40 @@ Contact Style
   width: 100%;
   height: 50px;
   border-radius: 25px;
-  background-color: rgba(249, 235, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.529);
   border: none;
   outline: none;
   font-weight: 300;
   padding: 0px 20px;
   font-size: 14px;
-  color: #fff;
+  color: #000000;
   margin-bottom: 30px;
   position: relative;
   z-index: 3;
 }
 
 #contact-form input::placeholder {
-  color: #fff;
+  color: #000000;
 }
 
 #contact-form textarea {
   width: 100%;
   height: 120px;
   border-radius: 25px;
-  background-color: rgba(249, 235, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.529);
   border: none;
   outline: none;
   font-weight: 300;
   padding: 20px;
   font-size: 14px;
-  color: #fff;
+  color: #000000;
   margin-bottom: 30px;
   position: relative;
   z-index: 3;
 }
 
 #contact-form textarea::placeholder {
-  color: #fff;
+  color: #000000;
 }
 
 #contact-form button {
@@ -1653,7 +1653,7 @@ Contact Style
   background-color: #fff;
   padding: 0px 25px;
   border-radius: 25px;
-  color: #f67bd3 ;
+  color: #000000 ;
   transition: all .4s;
   position: relative;
   z-index: 3;
@@ -1665,7 +1665,7 @@ Contact Style
 
 .contact-us-content .more-info {
   text-align: center;
-  background: #f67bd3 (85,0,227);
+  background: #dda7fa (85,0,227);
   background: linear-gradient(90deg, #f67bd3(85,0,227,1) 0%, rgba(198,61,255,1) 100%);
   border-radius: 0px 0px 23px 23px;
   padding: 45px 30px 15px 30px;
